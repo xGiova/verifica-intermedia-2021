@@ -32,6 +32,7 @@ $testResultsDataset = array(
 
 foreach ($testResultsDataset as $row) {
         extract($row);
+		
 		/**
 		 * scrivi qui il tuo test
 		 */
