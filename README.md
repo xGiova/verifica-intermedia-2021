@@ -2,7 +2,7 @@
 
 ## Importazione dati, creazione della classe User, trasformazione di un elenco di istanze della classe Users
 
-- [ ] importare i dati presenti nel file [dataset]("./dataset/users-management-system.json")
+- [ ] importare i dati presenti nel file [./dataset/users-management-system.json]("./dataset/users-management-system.json")
 - [ ] trasformare ogni riga presente nel dataset in un instanza di una classe **User** con le seguenti proprietà:
     - userId
     - firstName
