@@ -1,5 +1,10 @@
 # Verifica intermedia Linguaggio di programmazione PHP 2021
 
+Consegna zip sulla piattaforma e commit finale su branch e upload su altervista.
+Dare la priorità alla consegna su formaretedad formato zip
+
+- dopo la consegna del 6 Aprile 2021 potete completare l'esercitazione su repository e altervista
+
 ## Importazione dati, creazione della classe User, trasformazione di un elenco di istanze della classe Users
 
 - [ ] importare i dati presenti nel file [./dataset/users-management-system.json]("./dataset/users-management-system.json")
